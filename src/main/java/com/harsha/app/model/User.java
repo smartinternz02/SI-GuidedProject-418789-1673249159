@@ -1,4 +1,4 @@
-package com.nithin.app.model;
+package com.harsha.app.model;
 
 public class User {
 

@@ -1,4 +1,4 @@
-package com.nithin.app.controller;
+package com.harsha.app.controller;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -14,8 +14,8 @@ import java.sql.*;
 import java.text.ParseException;
 import java.util.ArrayList;
 import com.mashape.unirest.http.exceptions.UnirestException;
-import com.nithin.app.model.User;
-import com.nithin.app.model.UserIp;
+import com.harsha.app.model.User;
+import com.harsha.app.model.UserIp;
 import org.springframework.stereotype.Controller;
 
 @Controller
